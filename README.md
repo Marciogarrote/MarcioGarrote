@@ -27,7 +27,6 @@ Mais recentemente, comecei a me aprofundar no mundo da automação de testes com
     <a href="https://talkingabouttesting.com/" target="_blank">
       <img src="image-5.png" alt="Talking About Testing" width="100">
     </a>
-    <div><strong>Talking About Testing</strong></div>
   </div>
 
 </div>
