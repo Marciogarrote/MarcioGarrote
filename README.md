@@ -15,18 +15,17 @@ Mais recentemente, comecei a me aprofundar no mundo da automação de testes com
     <div>Udemy</div>
     <a href>https://www.udemy.com</a>
   </div>
-
+  <br>
   <div style="text-align: center;">
     <img src="image-1.png" alt="Imagem 1" width="150">
     <div>Dio.me</div>
     <a href>https://www.dio.me</a>
   </div>
-
+  <br>
   <div style="text-align: center;">
     <img src="image-5.png" alt="Imagem 5" width="100">
     <div>Talking about testing</div>
     <a href>https://talkingabouttesting.com/</a>
   </div>
-
 </div>
 
