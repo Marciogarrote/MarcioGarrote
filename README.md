@@ -25,7 +25,7 @@ Mais recentemente, comecei a me aprofundar no mundo da automação de testes com
   </br>
   <div style="text-align: center;">
     <a href="https://talkingabouttesting.com/" target="_blank">
-      <img src="image-5.png" alt="Talking About Testing" width="100">
+      <img src="image-3.png" alt="Talking About Testing" width="100">
     </a>
   </div>
 
