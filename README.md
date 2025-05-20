@@ -11,7 +11,7 @@ Mais recentemente, comecei a me aprofundar no mundo da automação de testes com
 # Onde busco conhecimento
 <div style="display: flex; gap: 20px; align-items: center;">
   <div style="text-align: center;">
-    <img src="image.png" alt="Imagem 1" width="150">
+    <img src="image-2.png" alt="Imagem 2" width="100">
     <div>Udemy</div>
     <a href>https://www.udemy.com</a>
   </div>
@@ -29,3 +29,4 @@ Mais recentemente, comecei a me aprofundar no mundo da automação de testes com
   </div>
 
 </div>
+
