@@ -9,23 +9,27 @@ Desde 2013, venho me dedicando à área de __Quality Assurance__, com foco em ga
 Mais recentemente, comecei a me aprofundar no mundo da automação de testes com Cypress, ampliando minhas habilidades e explorando novas formas de agregar valor aos projetos por meio da automação.
 
 # Onde busco conhecimento
-<div style="display: flex; gap: 20px; align-items: center;">
-  <div style="text-align: center;">
-    <img src="image-2.png" alt="Imagem 2" width="100">
-    <div>Udemy</div>
-    <a href>https://www.udemy.com</a>
-  </div>
-  <br>
-  <div style="text-align: center;">
-    <img src="image-1.png" alt="Imagem 1" width="150">
-    <div>Dio.me</div>
-    <a href>https://www.dio.me</a>
-  </div>
-  <br>
-  <div style="text-align: center;">
-    <img src="image-5.png" alt="Imagem 5" width="100">
-    <div>Talking about testing</div>
-    <a href>https://talkingabouttesting.com/</a>
-  </div>
-</div>
+<div style="display: flex; gap: 30px; align-items: center; justify-content: center;">
 
+  <div style="text-align: center;">
+    <a href="https://www.udemy.com" target="_blank">
+      <img src="image-2.png" alt="Udemy" width="100">
+    </a>
+    <div><strong>Udemy</strong></div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://www.dio.me" target="_blank">
+      <img src="image-1.png" alt="Dio.me" width="150">
+    </a>
+    <div><strong>Dio.me</strong></div>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://talkingabouttesting.com/" target="_blank">
+      <img src="image-5.png" alt="Talking About Testing" width="100">
+    </a>
+    <div><strong>Talking About Testing</strong></div>
+  </div>
+
+</div>
